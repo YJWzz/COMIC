@@ -12,7 +12,7 @@ p,h1,h2,h3,h4,h4,h6,div,span {
 p {
 	font-size: 16px;
 }
-/* part3 */
+/* 選單 */
 .navbar-brand img {
 	height: 50px;
 }
@@ -25,15 +25,16 @@ p {
 }
 }
 
-/* part4 */
+/* 輪播 */
 .banner {
 	margin-top: 76px;
 }
 .banner .container-fluid {
 	padding:0!important;
 }
+/* 輪播底 */
 
-/* 介紹 */
+/* RECOMMEND、分類 */
 .about {
 	padding:100px 0;
 	background:linear-gradient(#ffffff,#F0E5DE); 
@@ -66,6 +67,7 @@ p {
 .title_line {
 	margin-bottom: 50px;
 }
+/* RECOMMEND、分類底 */
 
 /* 翻轉 */
 .card1{
@@ -235,8 +237,9 @@ p {
     width:80px;
     cursor: pointer;
 }
+/* ranklist底 */
 
-/* part7 */
+/* CONTACT */
 .contact {
 	height:600px;
 	padding-top: 100px;
@@ -307,8 +310,9 @@ input[type=submit]:hover {
     height:40px; 
     width:40px;
 }
+/* CONTACT底 */
 
-/* part8 */
+/* FOOTER */
 footer {
 	background-color: #c1adad;
 	padding:20px 0; 
@@ -317,3 +321,4 @@ footer {
 footer p {
 	line-height: 39px;
 }
+/* FOOTER底 */
